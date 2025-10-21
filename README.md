@@ -5,10 +5,10 @@
 Este projeto é uma aplicação web simples para cadastro, edição e remoção de usuários, desenvolvida com Java, SpringBoot , Postman e Postgres, Ideal para fins educativos ou como base para integração com Front-end.
 
 🚀 Funcionalidades
-- ✅ Cadastro de usuários com nome e e-mail
-- ✏️ Edição de dados diretamente no formulário
-- ❌ Remoção de usuários da lista
-- 📋 Listagem dinâmica dos usuários cadastrados
+- ✅ Cadastro de usuários com nome, e-mail, id, codigo de usuario (gerado aleatoriamente)
+- ✏️ Edição de dados 
+- ❌ Remoção de usuários 
+- 📋 Listagem dos usuários cadastrados
 
 📦 Tecnologias utilizadas
 - Java
