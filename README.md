@@ -1,4 +1,6 @@
 📘 README – Cadastro de Usuários
+
+
 🧾 Descrição
 Este projeto é uma aplicação web simples para cadastro, edição e remoção de usuários, desenvolvida com Java, SpringBoot , Postman e Postgres, Ideal para fins educativos ou como base para integração com Front-end.
 
